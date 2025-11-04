@@ -324,7 +324,7 @@ const Calendar = defineComponent({
 }
 .search-item input {
   color: #3e9c9b;
-  font-weight: 600;
+  font-weight: 400;
   font-size: 15px;
 }
 .search-item:not(:first-child)::before {
@@ -621,7 +621,7 @@ input::placeholder {
 }
 .guest-txt small {
   color: #787474;
-  font-size: 12px;
+  font-size: 14px;
   white-space: nowrap;
 }
 .guest-ctrl {
