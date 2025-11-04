@@ -157,8 +157,8 @@ onMounted(() => {
   text-align: center;
 }
 
-.inner-review > h1 {
-  font-size: $title-md;
+.inner-review h1 {
+  font-size: clamp(24px, 3vw, 40px);
   color: #222;
 }
 
